@@ -1,10 +1,10 @@
 {
-"Title": "تیم فارسروید منتشر کرد 😎🔥",
-"Description": "• فیلترشکن جدید و پرسرعت Vpn Plus بر پایه V2ray توسط تیم Farsroid منتشر شد!\nفورا عضو کانالشون بشو و خودتو از شر همه چی راحت کن 😍👇🏻",
-"Link": "tg://join?invite=-oyxpRFgL7tlZWQ0",
-"ColorWave": "#6200EA",
-"Color": "#6200EA",
-"ColorWaveTwo": "#7C4DFF",
+"Title": "فیلترشکن پولی رو رایگان استفاده کن 😱🔥",
+"Description": "❌ فیلترشکن پولی v2net به ارزش ماهانه 1 میلیون مود شده و میتونی رایگان استفاده کنی ، بیا تو کانال تلگرام دانلود کن بدو تا جا نمونی 👇🏻",
+"Link": "tg://join?invite=hLRBxkwYzuw0OTM0",
+"ColorWave": "#673AB7",
+"Color": "#673AB7",
+"ColorWaveTwo": "#7E57C2",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "018039284847736667382884",
+"MessageID": "299736100381",
 "ShowTime": "4",
-"Button": "  عضویت و دانلود اجباری  ",
+"Button": " دانلود و عضویت اجباری ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
